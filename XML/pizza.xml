@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pizzeria>
+    <paquetes>
+        <paquete>
+            <nombre_paquete>Uno</nombre_paquete>
+            <pizza precio="130" tamanio="Grande" ingredientes="Peperoni" img="IMG\peperoni.jpeg">Pizza de Peperoni</pizza>
+            <refresco>Cocacola de 2 litros</refresco>
+        </paquete>
+
+        <paquete>
+            <nombre_paquete>Dos</nombre_paquete>
+            <pizza precio="150" tamanio="Grande" ingredientes="jamon,queso y pina" img="IMG\hawaiana.jpeg">Pizza hawaiana</pizza>
+            <refresco>Cocacola de 2 litros</refresco>
+        </paquete>
+
+        <paquete>
+            <nombre_paquete>Tres</nombre_paquete>
+            <pizza precio="160" tamanio="Grande" ingredientes="chile,longaniza,cebolla, champiñones y chorizo " img="IMG\mexicana.jpeg">Pizza mexicana</pizza>
+            <refresco>Cocacola de 2 litros</refresco>
+        </paquete>     
+
+        <paquete>
+            <nombre_paquete>Cuatro</nombre_paquete>
+            <pizza precio="130" tamanio="Grande" ingredientes="queso" img="IMG\quesos.jpeg">Pizza 4 quesos</pizza>
+            <refresco>Cocacola de 2 litros</refresco>
+        </paquete> 
+    </paquetes>
+     
+   <pizzas>
+        <pizza_S precio="100" tamanio="Grande" ingredientes="queso" img="IMG\peperoni.jpeg">Pizza 4 quesos</pizza_S>
+        <pizza_S precio="120" tamanio="Grande" ingredientes="chile,longaniza,cebolla, champiñones y chorizo " img="IMG\mexicana.jpeg">Pizza mexicana</pizza_S>
+        <pizza_S precio="130" tamanio="Grande" ingredientes="jamon,queso y pina" img="IMG\hawaiana.jpeg">Pizza hawaiana</pizza_S>
+        <pizza_S precio="100" tamanio="Grande" ingredientes="Peperoni" img="IMG\quesos.jpeg">Pizza de Peperoni</pizza_S>
+   </pizzas> 
+
+</pizzeria>
